@@ -118,6 +118,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/Yemasthui/basicBot/master/basicBot.js", extend);
+    $.getScript("https://github.com/Uberjakd/RaverBot/blob/master/Raverbot.js", extend);
 
 }).call(this);
